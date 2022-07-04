@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="26" viewBox="0 0 23 26">
+  <g id="Icon_feather-home" data-name="Icon feather-home" transform="translate(-2.782 -1.98)">
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M7,25H2.333A3.371,3.371,0,0,1-1,21.6V8.4a1,1,0,0,1,.375-.781l10.5-8.4a1,1,0,0,1,1.249,0l10.5,8.4A1,1,0,0,1,22,8.4V21.6A3.371,3.371,0,0,1,18.667,25H14a1,1,0,0,1-1-1V18.207H8V24A1,1,0,0,1,7,25ZM1,8.881V21.6A1.369,1.369,0,0,0,2.333,23H6V17.207a1,1,0,0,1,1-1h7a1,1,0,0,1,1,1V23h3.667A1.369,1.369,0,0,0,20,21.6V8.881l-9.5-7.6Z" transform="translate(3.782 2.98)" fill="#707070"/>
+  </g>
+</svg>

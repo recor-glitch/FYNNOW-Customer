@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.19" height="27" viewBox="0 0 28.19 27">
+  <g id="Icon_feather-shopping-cart" data-name="Icon feather-shopping-cart" transform="translate(-0.5 -0.5)">
+    <path id="Path_13" data-name="Path 13" d="M14.381,31.19A1.19,1.19,0,1,1,13.19,30,1.19,1.19,0,0,1,14.381,31.19Z" transform="translate(-2.167 -5.881)" fill="#6e6e6e"/>
+    <path id="Path_13_-_Outline" data-name="Path 13 - Outline" d="M13.19,29A2.19,2.19,0,1,1,11,31.19,2.193,2.193,0,0,1,13.19,29Zm0,2.381a.19.19,0,1,0-.19-.19A.191.191,0,0,0,13.19,31.381Z" transform="translate(-2.167 -5.881)" fill="#6e6e6e"/>
+    <path id="Path_14" data-name="Path 14" d="M30.881,31.19A1.19,1.19,0,1,1,29.69,30,1.19,1.19,0,0,1,30.881,31.19Z" transform="translate(-5.571 -5.881)" fill="#6e6e6e"/>
+    <path id="Path_14_-_Outline" data-name="Path 14 - Outline" d="M29.69,29a2.19,2.19,0,1,1-2.19,2.19A2.193,2.193,0,0,1,29.69,29Zm0,2.381a.19.19,0,1,0-.19-.19A.191.191,0,0,0,29.69,31.381Z" transform="translate(-5.571 -5.881)" fill="#6e6e6e"/>
+    <path id="Path_15" data-name="Path 15" d="M23.451,20.358H11.842a3.377,3.377,0,0,1-3.37-2.722L6.482,7.695q-.011-.044-.018-.09L5.442,2.5H1.5a1,1,0,1,1,0-2H6.262a1,1,0,0,1,.981.8l1.03,5.149H27.69a1,1,0,0,1,.982,1.187l-1.9,9.988v.007A3.378,3.378,0,0,1,23.451,20.358Zm-11.618-2H23.451A1.38,1.38,0,0,0,24.8,17.248l1.677-8.8H8.673l1.76,8.792a1.38,1.38,0,0,0,1.381,1.113Z" transform="translate(0 0)" fill="#6e6e6e"/>
+    <path id="Line_1" data-name="Line 1" d="M7.937,1H0A1,1,0,0,1-1,0,1,1,0,0,1,0-1H7.937a1,1,0,0,1,1,1A1,1,0,0,1,7.937,1Z" transform="translate(13.802 12.214)" fill="#6e6e6e"/>
+  </g>
+</svg>
